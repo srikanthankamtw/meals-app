@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: Screens/CategoryScreen.js
+  checksum: f7e076c999a840abd835933a32caa0cad51f056d7c1eec28ccfaa13cf4784976
+- filename: Screens/FavouritesScreen.js
+  checksum: 672d69da8665cf037933e325045d97c7c77e103616377c7ca7590275692877aa
+- filename: Screens/MealDetailsScreen.js
+  checksum: 63d2534ad0dc6191808c267a0bd73388f674ba2df7b3bdc1b98b9b762e6f6d6a
+- filename: Screens/MealsScreen.js
+  checksum: a8395478b161f30d0a83d0cd468461404a3ba657cf8fb77ef24d1156960b07a0
+- filename: yarn.lock
+  checksum: 3cc40b854b284b457ad501a431471c24c12d44c28d26de95790ce3b6319d89bb
+version: "1.0"
